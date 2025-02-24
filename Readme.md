@@ -1,0 +1,1 @@
+This is a Student Data Registration Form which allows you to register and store your data in DB.
